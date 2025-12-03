@@ -1,10 +1,23 @@
-"Debug/" 
-"*.bin" 
-"*.hex" 
-"*.o" 
-"*.d" 
-"*.elf" 
-"*.map" 
-"*.su" 
-"*.bak" 
-"STM32CubeIDE/" 
+# Ignore build directories
+Debug/
+Release/
+
+# Ignore object files and executables
+*.o
+*.a
+*.bin
+*.hex
+*.elf
+*.map
+*.su
+*.bak
+
+# Ignore STM32CubeIDE project files
+STM32CubeIDE/
+.settings/
+.project
+.cproject
+
+# Ignore IDE-specific files
+.vscode/
+.idea/

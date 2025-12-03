@@ -1,3 +1,0 @@
-../Core/Src/morse_decoder.c:28:6:MorseDecoder_Init	4	static
-../Core/Src/morse_decoder.c:36:6:MorseDecoder_ProcessPress	24	static
-../Core/Src/morse_decoder.c:61:6:MorseDecoder_DecodeLetter	24	static
