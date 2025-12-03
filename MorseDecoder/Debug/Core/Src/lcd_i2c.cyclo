@@ -1,0 +1,8 @@
+../Core/Src/lcd_i2c.c:21:13:LCD_SendNibble	1
+../Core/Src/lcd_i2c.c:42:13:LCD_SendByte	1
+../Core/Src/lcd_i2c.c:51:6:LCD_Init	1
+../Core/Src/lcd_i2c.c:92:6:LCD_Clear	1
+../Core/Src/lcd_i2c.c:102:6:LCD_SetCursor	2
+../Core/Src/lcd_i2c.c:111:6:LCD_PutChar	1
+../Core/Src/lcd_i2c.c:119:6:LCD_Puts	2
+../Core/Src/lcd_i2c.c:129:6:LCD_ScanI2C	3

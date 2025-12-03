@@ -1,0 +1,2 @@
+../Core/Src/buzzer.c:16:6:Buzzer_Init	16	static
+../Core/Src/buzzer.c:24:6:Buzzer_Beep	16	static
